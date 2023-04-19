@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(rgb(240, 240, 12), rgb(255, 153, 0));
+}
+h1 {
+    font-family: 'Dongle', sans-serif;
+    font-size: 65px;
+}
+button {
+    margin-left: 110px !important;
+    margin-top: -45px;
+    background-color: rgb(186, 178, 176);
+    border-color: transparent;
+    border-radius: 15px;
+    height: 30px;
+    width: 140px;
+    margin-left: 0px;
+}
+#effect {
+    background-color: white;
+    padding: 7px 7px 7px 7px;
+    width: 250px;
+    border-radius: 20px;
+    height: 57px;
+}
+#right_side {
+    float: left;
+}
+#effect2 {
+    background-color: white;
+    padding: 7px 7px 7px 7px;
+    width: 250px;
+    border-radius: 20px;
+    height: 57px;
+    margin-left: 100px;
+}
+h3 {
+    width:fit-content;
+    margin-left: -200px;
+}
